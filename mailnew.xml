@@ -29,5 +29,8 @@
       </fieldset>
     </fields>
   </config>
+  <updateservers>
+    <server type="extension" priority="1" name="sliComments - mailnew update site">https://raw.github.com/gquadro/slicomments-mailnew/master/update.xml</server>
+  </updateservers>
 </extension>
 

@@ -1,0 +1,11 @@
+<update>
+  <name>plg_slicomments_mailnew</name>
+  <description>Send a mail on new comment</description>
+  <element>mailnew</element>
+  <type>plugin</type>
+  <version>0.1-r2</version>
+  <downloads>
+    <downloadurl type="full" format="zip">https://github.com/gquadro/slicomments-mailnew/archive/master.zip</downloadurl>
+  </downloads>
+  <targetplatform name="joomla" version="1.6"/>
+</update>
